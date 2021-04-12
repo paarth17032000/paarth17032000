@@ -1,15 +1,16 @@
-### Hey!!  it's Paarth Agarwal 👋
 
-I am a 2nd yr B.Tech( IT Branch ) student.
-
-- 🔭 I’m currently working on my skills .
-- 🌱 I’m currently learning React .
-- 👯 I’m looking to collaborate on awesome projects .
-- 🤔 I’m looking for help with guidance and data structures .
-- 💬 Ask me about things you want .
-- 📫 How to reach me: paarth17032000@gmail.com
-- All of my projects are available at: https://github.com/paarth17032000
-- ⚡ Fun fact: I love food and watching Netflix .
+<h1 align="center">Hey!!  it's Paarth Agarwal 👋</h1>
+<h3 align="center">I am a 2nd yr B.Tech( IT Branch ) student.</h1>
+  I am a 2nd yr B.Tech( IT Branch ) student.
+<ul align="center">
+  <li>🔭 I’m currently working on my skills .</li>
+  <li>🌱 I’m currently learning React .</li>
+  <li>👯 I’m looking to collaborate on awesome projects .</li>
+  <li>🤔 I’m looking for help with guidance and data structures .</li>
+  <li>💬 Ask me about things you want .</li>
+  <li>📫 How to reach me: paarth17032000@gmail.com</li>
+  <li>⚡ Fun fact: I love food and watching Netflix .</li>
+ </ul>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paarth17032000" alt="paarth17032000" /> </p>
 
@@ -30,7 +31,7 @@ I am a 2nd yr B.Tech( IT Branch ) student.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarth17032000&layout=compact&hide=html&langs_count=8 alt="paarth17032000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarth17032000&layout=compact&langs_count=8 alt="paarth17032000" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth17032000&show_icons=true" alt="paarth17032000" />
