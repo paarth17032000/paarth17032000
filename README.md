@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey!!  it's Paarth Agarwal 👋</h1>
 <h3 align="center">I am a 2nd yr B.Tech( IT Branch ) student.</h1>
-  I am a 2nd yr B.Tech( IT Branch ) student.
 <ul align="center">
   <li>🔭 I’m currently working on my skills .</li>
   <li>🌱 I’m currently learning React .</li>
