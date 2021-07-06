@@ -8,7 +8,7 @@
   <li>🤔 I’m looking for help with guidance and data structures .</li>
   <li>💬 Ask me about things you want .</li>
   <li>📫 How to reach me: paarth17032000@gmail.com</li>
-  <li>⚡ Fun fact: I love food and watching Netflix .</li>
+  <li>⚡ Fun fact: I love food and watching Netflix and Anime.</li>
  </ul>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paarth17032000" alt="paarth17032000" /> </p>
