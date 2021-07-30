@@ -32,12 +32,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarth17032000&layout=compact&langs_count=8 alt="paarth17032000" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth17032000&show_icons=true" alt="paarth17032000" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paarth17032000&layout=compact" />
-</p>
 
 <h2 align="center">Connect with me</h2>
 <div align="center">  
