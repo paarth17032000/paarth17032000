@@ -1,16 +1,16 @@
 
 <h1 align="center">Hey!!  it's Paarth Agarwal 👋</h1>
 <h3 align="center">I am a 2nd yr B.Tech( IT Branch ) student.</h1>
-<ul align="center">
-  <li>🔭 I’m currently working on my skills .</li>
-  <li>🌱 I’m currently learning React .</li>
-  <li>👯 I’m looking to collaborate on awesome projects .</li>
-  <li>🤔 I’m looking for help with guidance and data structures .</li>
-  <li>💬 Ask me about things you want .</li>
-  <li>📫 How to reach me: paarth17032000@gmail.com</li>
-  <li>⚡ Fun fact: I love food and watching Netflix and Anime.</li>
- </ul>
-
+<div align="center">
+  <div>🔭 I’m currently working on my skills .</div>
+  <div>🌱 I’m currently learning React .</div>
+  <div>👯 I’m looking to collaborate on awesome projects .</div>
+  <div>🤔 I’m looking for help with guidance and data structures .</div>
+  <div>💬 Ask me about things you want .</div>
+  <div>📫 How to reach me: paarth17032000@gmail.com</div>
+  <div>⚡ Fun fact: I love food and watching Netflix and Anime.</div>
+ </div>
+<br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paarth17032000" alt="paarth17032000" /> </p>
 
 <!--
