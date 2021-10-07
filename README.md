@@ -1,13 +1,13 @@
 
 <h1 align="center">Hey!!  it's Paarth Agarwal 👋</h1>
-<h3 align="center">I am a 2nd yr B.Tech( IT Branch ) student.</h1>
+<h3 align="center">I am a 3rd yr B.Tech( IT Branch ) student.</h1>
 <div align="center">
   <div>🔭 I’m currently working on my skills .</div>
-  <div>🌱 I’m currently learning React .</div>
+  <div>🌱 I’m currently learning Dsa and Node .</div>
   <div>👯 I’m looking to collaborate on awesome projects .</div>
   <div>🤔 I’m looking for help with guidance and data structures .</div>
   <div>💬 Ask me about things you want .</div>
-  <div>📫 How to reach me: paarth17032000@gmail.com</div>
+  <div>📫 How to reach me: paarthworkmail@gmail.com</div>
   <div>⚡ Fun fact: I love food and watching Netflix and Anime.</div>
  </div>
 <br />
