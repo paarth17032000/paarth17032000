@@ -7,7 +7,8 @@
   <div>👯 I’m looking to collaborate on awesome projects .</div>
   <div>🤔 I’m looking for help with guidance and data structures .</div>
   <div>💬 Ask me about things you want .</div>
-  <div>📫 How to reach me: paarthworkmail@gmail.com</div>
+  <div>📫 How to reach me: <a href="paarthworkmail@gmail.com">paarthworkmail@gmail.com</a></div>
+  <div>💬 <a href="https://drive.google.com/file/d/1JPOqHdT1I1Qo-3DSDpm1jGN8-fYmRxiO/view?usp=sharing">Resume</a> </div>
   <div>⚡ Fun fact: I love food and watching Netflix and Anime.</div>
  </div>
 <br />
