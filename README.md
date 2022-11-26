@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey!!  it's Paarth Agarwal 👋</h1>
-<h3 align="center">I am a 3rd yr B.Tech( IT Branch ) student.</h1>
+<h3 align="center">I am a 4th yr B.Tech( IT Branch ) student.</h1>
 <div align="center">
   <div>🔭 I’m currently working on my skills .</div>
   <div>🌱 I’m currently learning Dsa and Node .</div>
@@ -8,7 +8,7 @@
   <div>🤔 I’m looking for help with guidance and data structures .</div>
   <div>💬 Ask me about things you want .</div>
   <div>📫 How to reach me: <a href="paarthworkmail@gmail.com">paarthworkmail@gmail.com</a></div>
-  <div>💬 <a href="https://drive.google.com/file/d/1JPOqHdT1I1Qo-3DSDpm1jGN8-fYmRxiO/view?usp=sharing">Resume</a> </div>
+  <div>💬 <a href="https://drive.google.com/file/d/15Lp2LnyyezSNfWshKHborfDlTnfMPxkp/view">Resume</a> </div>
   <div>⚡ Fun fact: I love food and watching Netflix and Anime.</div>
  </div>
 <br />
