@@ -8,7 +8,7 @@
   <div>🤔 I’m looking for help with guidance and data structures .</div>
   <div>💬 Ask me about things you want .</div>
   <div>📫 How to reach me: <a href="paarthworkmail@gmail.com">paarthworkmail@gmail.com</a></div>
-  <div>💬 <a href="https://drive.google.com/file/d/15Lp2LnyyezSNfWshKHborfDlTnfMPxkp/view">Resume</a> </div>
+  <div>💬 <a href="https://drive.google.com/file/d/1eKhMfuYmb0v3iDNBu4k2McLW-Wbo7snP/view">Resume</a> </div>
   <div>⚡ Fun fact: I love food and watching Netflix and Anime.</div>
  </div>
 <br />
