@@ -9,7 +9,7 @@
   <div>💬 Ask me about things you want .</div>
   <div>📫 How to reach me: <a href="paarthworkmail@gmail.com">paarthworkmail@gmail.com</a></div>
   <div>💬 <a href="https://drive.google.com/file/d/1eKhMfuYmb0v3iDNBu4k2McLW-Wbo7snP/view">Resume</a> </div>
-  <div>⚡ Fun fact: I love food and watching Netflix and Anime.</div>
+  <div>⚡ Fun fact: I love food, code different components and watching Netflix and Anime.</div>
  </div>
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paarth17032000" alt="paarth17032000" /> </p>
