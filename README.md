@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey!!  it's Paarth Agarwal </h1>
 <h3 align="center">I am a 4th yr B.Tech( IT Branch ) student.</h1>
 <div align="center">
