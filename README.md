@@ -1,55 +1,108 @@
-<h1 align="center">Hey!!  it's Paarth Agarwal </h1>
-<h3 align="center">I am a 4th yr B.Tech( IT Branch ) student.</h1>
-<div align="center">
-  <div>🔭 I’m currently working on my skills .</div>
-  <div>🌱 I’m currently learning Dsa and Node .</div>
-  <div>👯 I’m looking to collaborate on awesome projects .</div>
-  <div>🤔 I’m looking for help with guidance and data structures .</div>
-  <div>💬 Ask me about things you want .</div>
-  <div>📫 How to reach me: <a href="paarthworkmail@gmail.com">paarthworkmail@gmail.com</a></div>
-  <div>💬 <a href="https://drive.google.com/file/d/1eKhMfuYmb0v3iDNBu4k2McLW-Wbo7snP/view">Resume</a> </div>
-  <div>⚡ Fun fact: I love food, code different components and watching Netflix and Anime.</div>
- </div>
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=paarth17032000" alt="paarth17032000" /> </p>
-
-<!--
-### Tech Stack
-
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p> -->
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarth17032000&layout=compact&langs_count=8 alt="paarth17032000" />
+<h1>
+    Heyy!
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <br>
+    I'm Paarth Agarwal
+    <img src="https://media.tenor.com/images/4ab853a3b7b36f5d3928c726a0ac6475/tenor.gif" width="50">
+</h2>
+<p>
+    <em style="position: relative; bottom: 7px;"> Software Engineer next door! </em>
 </p>
- <p align="center">
+
+
+[![Twitter: Ojuswi](https://img.shields.io/badge/Paarth-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/PaarthAgarwal17)
+[![Linkedin: Ojuswi](https://img.shields.io/badge/Paarth17032000-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paarth17032000/)
+[![Instagram Badge](https://img.shields.io/badge/paarth17-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/____paarth__/)
+<a href="https://github.com/paarth17032000/"> ![GitHub followers](https://img.shields.io/github/followers/paarth17032000?label=Follow&style=social)</a>
+
+
+![](https://komarev.com/ghpvc/?username=namn360) 
+
+<img align="right" alt="GIF of Me" width="200" src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" />
+
+I love to code and add interactions to applications and solve issues to enrich user experience 👨‍💻
+- 👨‍💻 &nbsp; Engineering at [Telstra](https://www.linkedin.com/company/telstra/)
+- 🗄️ &nbsp; Specialised in frontend stuff.
+- 👨‍💻 &nbsp; Previously at [Nord Finance](https://www.linkedin.com/company/nordfinance)
+- 🐍 &nbsp; Mostly spends time with Javascript, ReactJs and NextJs.
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working on learning backend stuff.
+- 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/PaarthAgarwal17)! I would love to help.
+- 📫 &nbsp; How to reach me: paarthworkmail@gmail.com.
+
+### Languages and Tools:
+
+<p>
+    <a href="https://www.typescriptlang.org/">
+        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript">
+    </a>
+        <a href="https://nextjs.org/">
+       <img  width="48"  height="48"  src="https://img.icons8.com/color/48/nextjs.png"  alt="nextjs"/></a>
+        <a href="https://react.dev/">
+       <img  width="48"  height="48"  src="https://img.icons8.com/color/48/react-native.png"  alt="react-native"/>
+    </a>
+        <a href="https://www.javascript.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="javaScript">
+    </a>
+    <a href="https://graphql.org">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/graphql.png" alt="graphql"/></a>
+     <a href="https://nodejs.org/">
+       <img  width="48"  height="48"  src="https://img.icons8.com/color/48/nodejs.png"  alt="nodejs"/>
+    </a>
+     <a href="https://expressjs.com/">
+       <img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
+    </a>
+     <a href="https://mongodb.com/">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+    </a>
+ <a href="https://html.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/CSS">
+        <img height="50" src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img height="50" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="C">
+    </a>
+    <a href="https://www.cplusplus.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++">
+    </a>
+   
+</p>
+<p>
+    <a href="https://getbootstrap.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
+    </a>
+      <a href="https://webpackjs.org/">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/webpack.png" alt="webpack"/>
+    </a>
+    <a href="https://git-scm.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git">
+    </a>
+    </a>
+    <a href="https://www.docker.com/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker">
+    </a>
+    <a href="https://www.linux.org/">
+        <img height="50" src="https://img.icons8.com/color/50/000000/ubuntu--v1.png" alt="Linux">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS-Code">
+    </a>
+</p>
+
+###
+ <p >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth17032000&show_icons=true" alt="paarth17032000" />
 </p>
-<p align="center">
+
+### 
+<p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paarth17032000&layout=compact" />
 </p>
 
-<h2 align="center">Connect with me</h2>
-<div align="center">  
-  <a href="https://github.com/paarth17032000" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/paarth-agarwal-b77537193/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/____paarth__/" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-</div>  
   
 
