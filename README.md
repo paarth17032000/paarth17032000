@@ -17,7 +17,7 @@
 <a href="https://github.com/paarth17032000/"> ![GitHub followers](https://img.shields.io/github/followers/paarth17032000?label=Follow&style=social)</a>
 
 
-![](https://komarev.com/ghpvc/?username=namn360) 
+![](https://komarev.com/ghpvc/?username=paarth17032000) 
 
 <img align="right" alt="GIF of Me" width="200" src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" />
 
