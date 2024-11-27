@@ -22,9 +22,9 @@
 <img align="right" alt="GIF of Me" width="200" src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" />
 
 I love to code and add interactions to applications and solve issues to enrich user experience 👨‍💻
-- 👨‍💻 &nbsp; Engineering at [Telstra](https://www.linkedin.com/company/telstra/)
+- 👨‍💻 &nbsp; Engineering at [Cradlewise](https://www.cradlewise.com/)
 - 🗄️ &nbsp; Specialised in frontend stuff.
-- 👨‍💻 &nbsp; Previously at [Nord Finance](https://www.linkedin.com/company/nordfinance)
+- 👨‍💻 &nbsp; Previously at [Telstra](https://www.linkedin.com/company/telstra/) | [Nord Finance](https://www.linkedin.com/company/nordfinance)
 - 🐍 &nbsp; Mostly spends time with Javascript, ReactJs and NextJs.
 
 ### Talking about Personal Stuff:
