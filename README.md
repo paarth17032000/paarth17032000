@@ -13,7 +13,7 @@
 
 [![Twitter: Ojuswi](https://img.shields.io/badge/Paarth-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/PaarthAgarwal17)
 [![Linkedin: Ojuswi](https://img.shields.io/badge/Paarth17032000-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paarth17032000/)
-[![Instagram Badge](https://img.shields.io/badge/paarth17-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/____paarth__/)
+[![Instagram Badge](https://img.shields.io/badge/paarth17-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/paarthxe/)
 <a href="https://github.com/paarth17032000/"> ![GitHub followers](https://img.shields.io/github/followers/paarth17032000?label=Follow&style=social)</a>
 
 
