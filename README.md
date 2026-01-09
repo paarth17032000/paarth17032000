@@ -32,6 +32,7 @@ I love to code and add interactions to applications and solve issues to enrich u
 - 🛠 &nbsp; I’m currently working on learning backend stuff.
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/PaarthAgarwal17)! I would love to help.
 - 📫 &nbsp; How to reach me: paarthworkmail@gmail.com.
+- 🗄️ &nbsp; Resume [here](https://drive.google.com/file/d/1qyHPVaZBDelEiJEkvH-zMhWAC-4k3PyB/view)
 
 ### Languages and Tools:
 
